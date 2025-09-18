@@ -23,7 +23,7 @@ const allowedOrigins = [
   'https://level-up-2n89-iota.vercel.app',
   'https://level-up-2n89-kdqchow56-dims-projects-645dd5d5.vercel.app',
   'https://level-up-2n89-xqy5538lh-dims-projects-645dd5d5.vercel.app',
-  'https://level-up-8idt.onrender.com'
+  'https://front-end-level-up.onrender.com'
 ];
 
 
